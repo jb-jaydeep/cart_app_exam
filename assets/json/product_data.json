@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Clear glass spray",
+    "image": "https://img.freepik.com/premium-vector/clear-glass-spray-bottle-transparent-background-vector-mockup-cosmetic-product-packaging_541595-179.jpg?w=740",
+    "quantity": 50
+  },
+  {
+    "id": 10,
+    "name": "Goggles",
+    "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=580&q=80",
+    "quantity": 50
+  },
+  {
+    "id": 3,
+    "name": "Headphone",
+    "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=384&q=80",
+
+    "quantity": 50
+  },
+  {
+    "id": 4,
+    "name": "Watch",
+    "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+    "quantity": 50
+  },
+  {
+    "id": 5,
+    "name": "Oppo reno 8t",
+    "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/d/u/7/-original-imagmgy5ywvzdv6g.jpeg?q=70",
+    "quantity": 50
+  },
+  {
+    "id": 6,
+    "name": "Realme c53",
+    "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/5/q/6/-original-imags487ftf3g2s7.jpeg?q=70",
+    "quantity": 50
+  },
+  {
+    "id": 7,
+    "name": "Vivo y27",
+    "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/f/6/f/y27-v2249-vivo-original-imagrk4243kzgsrm.jpeg?q=70",
+    "quantity": 50
+  },
+  {
+    "id": 8,
+    "name": "Vivo t2x",
+    "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/k/u/n/-original-imagzjhwtfthcmzz.jpeg?q=70",
+    "quantity": 50
+  } ,
+  {
+    "id": 9,
+    "name": "Google pixle 6a",
+    "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/g/g/3/-original-imaggbrccwsnygar.jpeg?q=70",
+    "quantity": 50
+  },
+  {
+    "id": 2,
+    "name": "Google pixle 7a",
+    "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/n/i/d/-original-imagpgx4erjqnpzx.jpeg?q=70",
+    "quantity": 50
+  }
+]
